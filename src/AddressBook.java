@@ -20,7 +20,7 @@ public class AddressBook {
         return null;
     }
     //public String toString() {
-      //  return buddies.toString();
+       // return buddies.toString();
     //}
     public static void main(String[] args) {
     BuddyInfo buddy = new BuddyInfo("Tom","Carleton","613");
@@ -28,4 +28,4 @@ public class AddressBook {
     addressBook.addBuddy(buddy);
     addressBook.removeBuddy(0);
         }
-} //This is being commited
+} //This is being
