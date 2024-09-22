@@ -28,4 +28,4 @@ public class AddressBook {
     addressBook.addBuddy(buddy);
     addressBook.removeBuddy(0);
         }
-} //This is being
+} //This is being commited
