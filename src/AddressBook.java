@@ -19,9 +19,9 @@ public class AddressBook {
         }
         return null;
     }
-    //public String toString() {
-       // return buddies.toString();
-    //}
+    public String toString() {
+       return buddies.toString();
+    }
     public static void main(String[] args) {
     BuddyInfo buddy = new BuddyInfo("Tom","Carleton","613");
     AddressBook addressBook = new AddressBook();
@@ -29,5 +29,4 @@ public class AddressBook {
     addressBook.removeBuddy(0);
         }
 } 
-//This is being committed
-//This was added through github
+
