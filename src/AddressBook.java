@@ -28,4 +28,6 @@ public class AddressBook {
     addressBook.addBuddy(buddy);
     addressBook.removeBuddy(0);
         }
-} //This is being commited
+} 
+//This is being committed
+//This was added through github
